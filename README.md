@@ -1,0 +1,1 @@
+Meteor wrapper for metadisk-client API and Storj
