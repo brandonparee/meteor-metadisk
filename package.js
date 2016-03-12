@@ -2,7 +2,7 @@ Package.describe({
   name: 'brandonparee:metadisk',
   version: '0.0.1',
   summary: 'Meteor wrapper for metadisk-client API and Storj',
-  git: 'https://github.com/brandonparee/meteor-metadisk'
+  git: 'https://github.com/brandonparee/meteor-metadisk.git'
 });
 
 Npm.depends({
