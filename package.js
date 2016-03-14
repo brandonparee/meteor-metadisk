@@ -7,8 +7,8 @@ Package.describe({
 });
 
 Npm.depends({
-  "metadisk-client": "0.2.0",
-  "storj": "0.2.0"
+  "metadisk-client": "0.2.1",
+  "storj": "0.2.2"
 });
 
 Package.onUse( function( api ) {
