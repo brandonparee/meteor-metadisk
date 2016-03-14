@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "metadisk-client": {
-      "version": "0.2.0",
+      "version": "0.2.1",
       "dependencies": {
         "async": {
           "version": "1.5.2"
@@ -62,6 +62,17 @@
             }
           }
         },
+        "binaryjs-client": {
+          "version": "1.0.0",
+          "dependencies": {
+            "js-binarypack": {
+              "version": "0.0.9"
+            },
+            "wolfy87-eventemitter": {
+              "version": "4.3.0"
+            }
+          }
+        },
         "elliptic": {
           "version": "6.2.3",
           "dependencies": {
@@ -83,7 +94,7 @@
           "version": "0.7.1"
         },
         "readable-stream": {
-          "version": "2.0.5",
+          "version": "2.0.6",
           "dependencies": {
             "core-util-is": {
               "version": "1.0.2"
@@ -92,7 +103,7 @@
               "version": "2.0.1"
             },
             "isarray": {
-              "version": "0.0.1"
+              "version": "1.0.0"
             },
             "process-nextick-args": {
               "version": "1.0.6"
@@ -335,7 +346,7 @@
       }
     },
     "storj": {
-      "version": "0.2.0",
+      "version": "0.2.2",
       "dependencies": {
         "async": {
           "version": "1.5.2"
@@ -490,7 +501,7 @@
               "version": "0.0.4",
               "dependencies": {
                 "readable-stream": {
-                  "version": "2.0.5",
+                  "version": "2.0.6",
                   "dependencies": {
                     "core-util-is": {
                       "version": "1.0.2"
@@ -499,7 +510,7 @@
                       "version": "2.0.1"
                     },
                     "isarray": {
-                      "version": "0.0.1"
+                      "version": "1.0.0"
                     },
                     "process-nextick-args": {
                       "version": "1.0.6"
@@ -526,7 +537,7 @@
               "version": "0.0.1",
               "dependencies": {
                 "readable-stream": {
-                  "version": "2.0.5",
+                  "version": "2.0.6",
                   "dependencies": {
                     "core-util-is": {
                       "version": "1.0.2"
@@ -535,7 +546,7 @@
                       "version": "2.0.1"
                     },
                     "isarray": {
-                      "version": "0.0.1"
+                      "version": "1.0.0"
                     },
                     "process-nextick-args": {
                       "version": "1.0.6"
@@ -584,7 +595,7 @@
                   "version": "1.0.3",
                   "dependencies": {
                     "readable-stream": {
-                      "version": "2.0.5",
+                      "version": "2.0.6",
                       "dependencies": {
                         "core-util-is": {
                           "version": "1.0.2"
@@ -593,7 +604,7 @@
                           "version": "2.0.1"
                         },
                         "isarray": {
-                          "version": "0.0.1"
+                          "version": "1.0.0"
                         },
                         "process-nextick-args": {
                           "version": "1.0.6"
